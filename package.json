@@ -1,0 +1,10 @@
+{
+  "name": "typescript-lunch-n-learn",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "author": "jose carrillo",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.3"
+  }
+}
